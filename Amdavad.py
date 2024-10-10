@@ -63,11 +63,11 @@ if __name__ == '__main__':
     black_face = ImageTk.PhotoImage(Image.open("Images/chakka_black_face.png").resize((int(chakka_x), int(chakka_y)), Image.LANCZOS))
     
     
-    # temp = Label(window,image=white_face)
-    # temp.place(x=34,y=15)
-    # temp = Label(window,image=black_face)
-    # temp.place(x=100,y=15)
-    #Ludo(window,block_six_side,block_five_side,block_four_side,block_three_side,block_two_side,block_one_side)
+    temp = Label(window,image=white_face)
+    temp.place(x=34,y=15)
+    temp = Label(window,image=black_face)
+    temp.place(x=100,y=15)
+    # Ludo(window,block_six_side,block_five_side,block_four_side,block_three_side,block_two_side,block_one_side)
     
     Amdavad(window, white_face, black_face)
     window.mainloop()
