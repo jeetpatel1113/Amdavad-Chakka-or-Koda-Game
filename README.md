@@ -17,7 +17,7 @@ The goal of Chakka is to slide your disc, or "chakka," onto specific targets whi
 
 <br>
 <h2>Getting Started</h2>
-To play Chakka Game locally, follow these instructions:
+To play Chakka Game locally, follow these instructions:<br>
 1. Choose who goes first, usually it goes left to right on the board or anti-clock wise.<br>
 2. Count Chakka, and move the piece accordingly.<br>
 
@@ -31,6 +31,8 @@ To play Chakka Game locally, follow these instructions:
 2. Any piece is safe as long as it is in the house.<br>
 3. One player's piece cannot enter the inner grid as long as it has not killed atleast one of the opponent's piece.<br>
 4. After a couple of turns, there will be a chance where a player's piece will step on any of the opponent's piece. That's when the opponent's piece is killed and that piece is taken to the opponent's house.<br>
+
+<h1>NEED TO UPDATE</h1>
 
 <br>
 <h2>Contributing</h2>
