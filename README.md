@@ -1,4 +1,5 @@
-Chakka Game 🎯
+Chakka Game 🎯 \n
+
 Chakka Game is a traditional Gujarati game reimagined in a digital format! This game combines skill and strategy, bringing the authentic experience of Chakka to players worldwide. It’s a fun, interactive way to dive into Gujarati culture and enjoy a classic game in a modern way.
 
 Game Overview
